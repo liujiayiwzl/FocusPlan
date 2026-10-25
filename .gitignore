@@ -1,0 +1,14 @@
+.venv/
+.idea/
+build/
+dist/
+data/
+.flet/
+.flutter/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+*.apk
+.env
+main_s*_backup.py
